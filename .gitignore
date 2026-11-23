@@ -1,0 +1,19 @@
+# Binarios compilados
+bin/
+*.o
+*.out
+
+# Bases de datos generadas en ejecucion
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuracion del IDE (contiene rutas locales)
+.idea/
+
+# Empaquetado de entrega (redundante con src/)
+Proyecto_EntregaFinal.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
